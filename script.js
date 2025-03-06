@@ -1,5 +1,5 @@
 const encryptedLink =
-  "https://e26525m1t4dh5f-ages-m4-m1e.hop.clickbank.net?cbpage=tsl";
+  "https://5f8067ncxqkc5w6n0e80g3vgbn.hop.clickbank.net/?&traffic_source=google";
 
 document.querySelectorAll("[data-product]").forEach((link) => {
   link.href = encryptedLink;
